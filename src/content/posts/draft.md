@@ -6,31 +6,18 @@ category: Examples
 draft: false
 ---
 
-## title {.tabset .tabset-fade}
-content above tabbed region.
+::: tabs
 
-### tab Social-Media
+@tab apple
 
-tab content Social-Media
+Apple
 
-### tab Contact
+@tab banana
 
-tab content  Contact
+Banana
 
-### tab Revisions
+@tab orange
 
-tab content  Revisions
+Orange
 
-### tab Articles
-
-tab content  Articles
-
-### tab Skills
-
-tab content  Skills
-
-### tab Insights
-
-tab content  Insights
-
-content below tabbed region
+:::
