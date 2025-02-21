@@ -30,9 +30,9 @@ export const siteConfig: SiteConfig = {
   },
   favicon: [    // Leave this array empty to use the default favicon
     // {
-    //   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
+    //   src: '/src/assets/images/zhuguli232-logo.png',    // Path of the favicon, relative to the /public directory
     //   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-    //   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+    //   sizes: '150x40',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
     // }
   ]
 }
@@ -63,9 +63,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'YouTube',
+      icon: 'fa6-brands:youtube',
+      url: 'https://www.youtube.com/@zhuguli232',
     },
     {
       name: 'GitHub',
