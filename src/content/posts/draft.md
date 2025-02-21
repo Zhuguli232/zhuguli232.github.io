@@ -6,18 +6,18 @@ category: Examples
 draft: false
 ---
 
-::: tabs
+<!-- tabs:start -->
 
-@tab apple
+#### **English**
 
-Apple
+Hello!
 
-@tab banana
+#### **French**
 
-Banana
+Bonjour!
 
-@tab orange
+#### **Italian**
 
-Orange
+Ciao!
 
-:::
+<!-- tabs:end -->
